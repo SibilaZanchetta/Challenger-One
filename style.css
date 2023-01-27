@@ -30,7 +30,7 @@ main{
 
 .mensagem {
     background: white;
-    background-image: url(/Imagens/boneco.png);
+    background-image: url(./Imagens/boneco.png);
     background-repeat: no-repeat;
     background-position: center;
     border: none;
